@@ -17,7 +17,7 @@ Este ejercicio refleja la naturaleza exploratoria de la modelización explicativ
 
 Un modelo conceptual puede expresarse aquí de maneras diversas, por ejemplo como listas de elementos y relaciones, esquemas, diagramas, etc. Es decir, no forzaremos el uso de convenciones como [UML](https://es.wikipedia.org/wiki/Lenguaje_unificado_de_modelado), pese a que podría facilitar la siguiente etapa (implementación). Ejemplos de diagramas UML también pueden ofrecer inspiraciones, aunque no se aprendan sus reglas. Otras convenciones más específicas pueden ser también muy útiles y relativamente fáciles de aprender: 
 
-- [Diagramas causales, "stocks" y flujos, o de Forrester](https://en.wikipedia.org/wiki/System_dynamics):
+- [Diagramas causales, "stocks" y flujos, o de Forrester](https://en.wikipedia.org/wiki/System_dynamics): útiles para relacionar el cambio de variables agregadas (stocks) a parámetros y otras variables (flujos).
 - [Diagramas de flujo](https://es.wikipedia.org/wiki/Diagrama_de_flujo): útiles para representar flujos de lógica, sobre todo procedimentos simples de toma de decisiones.
 
 Ver algunos ejemplos de modelización conceptual en este tutorial en inglés: https://github.com/Andros-Spica/ABM-tutorial-koeln-2022?tab=readme-ov-file#conceptual-model
