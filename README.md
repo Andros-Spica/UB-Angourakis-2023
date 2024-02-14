@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10657558.svg)](https://doi.org/10.5281/zenodo.10657558)
 # Simulación en arqueología
 
 Presentación para seminario en la asignatura ["Tendencias Actuales en Arqueología"](https://grad.ub.edu/grad3/plae/AccesInformePDInfes?curs=2023&assig=573569&ens=M270D&recurs=pladocent&n2=1&idioma=ESP) en el [Máster en Estudios Avanzados](https://web.ub.edu/es/web/estudis/w/masteruniversitari-M270D?presentation) en Arqueología de la Universidad de Barcelona (14/12/2023).
